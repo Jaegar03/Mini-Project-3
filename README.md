@@ -21,7 +21,7 @@ This project demonstrates **Natural Language Processing (NLP)** basics by applyi
 
 ## 🛠️ Tech Stack  
 - Python 3  
-- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `nltk`, `scikit-learn`, `gensim`, `wordcloud`  
+- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `nltk`, `scikit-learn`, `gensim`.  
 
 ---
 
